@@ -19,7 +19,6 @@
         <li>The script uses Pillow library for image resizing.</li>
         <li>For best results, ensure that the input images have sufficient resolution to be resized to the custom dimensions.</li>
     </ul>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+    
 </body>
 </html>
