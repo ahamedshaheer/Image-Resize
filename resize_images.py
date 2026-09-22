@@ -5,7 +5,6 @@ def convert_to_custom_dimension(input_folder, output_folder, width=1600, height=
     # Create output folder if it doesn't exist
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
-
     # Iterate through all files in the input folder
     for filename in os.listdir(input_folder):
         input_file_path = os.path.join(input_folder, filename)
